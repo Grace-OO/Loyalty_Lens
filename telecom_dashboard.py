@@ -264,13 +264,13 @@ with tab3:
     st.write('''
     **Findings:**
     
-    * Monthly Charges: Churned customers have higher median monthly charges, suggesting a link between higher costs and churn.
-
-    * Tenure: Newer customers are more likely to churn, with an average tenure of 10 months. Some exceptions stayed up to 6 years.
+    * Admin Tickets: Admin ticket activity is similar across both groups, showing little impact on churn.
 
     * Tech Tickets: Churned customers logged more tech support tickets, indicating possible dissatisfaction or recurring issues.
 
-    * Admin Tickets: Admin ticket activity is similar across both groups, showing little impact on churn.
+    * Tenure: Newer customers are more likely to churn, with an average tenure of 10 months. Some exceptions stayed over 6 years. 
+
+    * Monthly Charges: Churned customers have higher median monthly charges, suggesting a link between higher costs and churn.
     ''')
     
 with tab4:
