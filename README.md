@@ -23,7 +23,7 @@ Customer churn is a critical issue for telecom companies, as retaining existing 
 
 ---
 
-##### [View streaamlit data story here](https://loyaltylens1.streamlit.app/)
+##### [View streamlit data story here](https://loyaltylens1.streamlit.app/)
 
 ## 🧾 Dataset Summary
 
