@@ -82,8 +82,3 @@ The dataset contains information about telecom customers, including:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repo:
-```bash
-git clone https://github.com/yourusername/telecom-churn-analysis.git
