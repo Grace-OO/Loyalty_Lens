@@ -24,7 +24,7 @@ BigPearl, a telecom company is analyzing customer churn patterns. Customer churn
 * Suggest strategies to reduce churn
 
 ''')
-st.markdown("[Click here to explore the project code on GitHub.](https://github.com/Grace-OO/Call_Metrics/tree/main)")
+st.markdown("[Click here to explore the project code on GitHub.](https://github.com/Grace-OO/Loyalty_Lens)")
 
 
 # Load data
